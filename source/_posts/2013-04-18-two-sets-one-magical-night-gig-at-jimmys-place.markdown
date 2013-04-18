@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Two Sets; One Magical Night"
+title: "Two Sets. One Magical Night"
 date: 2013-04-18 07:50
 comments: true
 categories: Gigs
